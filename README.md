@@ -9,6 +9,27 @@
 
  ✔ Embedded Systems: Arduino IDE, IoT-based applications
 
+
+
+# 🎯 Interests:
+
+ VLSI & Semiconductor Design
+
+ Space Tech & Nano-Satellite Systems
+
+ Internet of Things (IoT)
+
+ RF Antennas & Wireless Communication
+
+# 📌 Extra-Curricular Activities:
+
+  Cultural Event Coordinator
+
+# 📫 Let's Connect!
+ 📩 Email: suryaiamsans123@gmail.com
+ 
+ 🔗 LinkedIn: Sandesh A R
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandesh-ar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandesh-ar&theme=dark&hide_border=false)<br/>
@@ -16,16 +37,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandesh-ar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @sandesh-ar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sandesh-ar/sandesh-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
