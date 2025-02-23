@@ -28,7 +28,7 @@
 # 📫 Let's Connect!
  📩 Email: suryaiamsans123@gmail.com
 
- 🔗 LinkedIn: Sandesh A R
+🔗 LinkedIn: [Sandesh A R](https://www.linkedin.com/in/sandesh-ar-173b47329) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandesh-ar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
