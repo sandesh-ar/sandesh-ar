@@ -1,5 +1,5 @@
 # 💫 About Me: 
- 👋 Hi, I'm Sandesh A R, an Electronics & Communication Engineering student at Dayananda Sagar College of Engineering (DSCE), Bengaluru (Graduation Year: 2026). Passionate about VLSI, IoT, and Embedded Systems, I love working on innovative projects that push technological boundaries.
+ 👋 Hi, I'm Sandesh A R, an Electronics & Communication Engineering student at Dayanand Sagar College of Engineering (DSCE), Bengaluru (Graduation Year: 2026). Passionate about VLSI, IoT, and Embedded Systems, I love working on innovative projects that push technological boundaries.
 
 # 💻 Tech Stack:
  
@@ -27,7 +27,7 @@
 
 # 📫 Let's Connect!
  📩 Email: suryaiamsans123@gmail.com
- 
+
  🔗 LinkedIn: Sandesh A R
 
 # 📊 GitHub Stats:
