@@ -5,7 +5,7 @@
  
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 
- ✔ Software & Tools: MATLAB,ModelSim, Multisim, Proteus, NanoHUB, Cadence (HFSS), Ansys
+ ✔ Software & Tools: MATLAB,ModelSim, Multisim, Proteus, Cadence, (HFSS)Ansys
 
  ✔ Embedded Systems: Arduino IDE, IoT-based applications
 
